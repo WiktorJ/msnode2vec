@@ -1,0 +1,8 @@
+Cython
+wheel
+networkx
+numpy
+gensim
+scikit-learn
+matplotlib
+click
